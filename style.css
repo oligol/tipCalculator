@@ -1,0 +1,17 @@
+.container .calculator h3 {
+    text-align: center;
+    font-weight: bold;
+}
+
+.container p {
+    border-bottom: 2px solid rgba(211, 211, 211, 0.5);
+}
+
+.calculator-submit {
+    text-align: center;
+}
+
+.calculator-submit .btn {
+    border-radius: 5px;
+    width: fit-content;
+}
